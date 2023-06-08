@@ -1,0 +1,18 @@
+{
+    "carritos": [
+      {
+        "id": "1623117046860",
+        "products": [
+          { "product": "1623116942662", "quantity": 2 },
+          { "product": "1623117009504", "quantity": 1 }
+        ]
+      },
+      {
+        "id": "1623117092512",
+        "products": [
+          { "product": "1623116978536", "quantity": 3 }
+        ]
+      }
+    ]
+  }
+  

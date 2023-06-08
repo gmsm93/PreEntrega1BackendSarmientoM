@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1623116942662",
+      "title": "Camiseta",
+      "description": "Camiseta de algodón de manga corta",
+      "code": "TS001",
+      "price": 19.99,
+      "status": true,
+      "stock": 10,
+      "category": "Ropa",
+      "thumbnails": [
+        "ruta1.jpg",
+        "ruta2.jpg"
+      ]
+    },
+    {
+      "id": "1623116978536",
+      "title": "Zapatos",
+      "description": "Zapatos de cuero para hombre",
+      "code": "ZP002",
+      "price": 79.99,
+      "status": true,
+      "stock": 5,
+      "category": "Calzado",
+      "thumbnails": [
+        "ruta3.jpg",
+        "ruta4.jpg"
+      ]
+    },
+    {
+      "id": "1623117009504",
+      "title": "Bolso",
+      "description": "Bolso de mano de cuero",
+      "code": "BL003",
+      "price": 49.99,
+      "status": false,
+      "stock": 0,
+      "category": "Accesorios",
+      "thumbnails": [
+        "ruta5.jpg"
+      ]
+    }
+  ]
+  
